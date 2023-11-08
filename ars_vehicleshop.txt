@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "notes": "Added editable file"
+  "version": "1.0.2",
+  "notes": "Added config to modify the distance of marker, ped spawn and draw, \n Changed method of updating job (more optimized and better)"
 }
