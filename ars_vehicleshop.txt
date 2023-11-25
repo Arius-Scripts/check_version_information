@@ -1,4 +1,4 @@
 {
   "version": "1.0.2",
-  "notes": "Added config to modify the distance of marker, ped spawn and draw, \n Changed method of updating job (more optimized and better)"
+  "notes": "Fixed marker  \n Fixed bug removing money when payments were off"
 }
