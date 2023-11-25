@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": "Fixed marker  \n Fixed bug removing money when payments were off"
 }
