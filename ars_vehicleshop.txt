@@ -1,4 +1,4 @@
 {
-  "version": "1.0.3",
-  "notes": "Fixed marker  \n Fixed bug removing money when payments were off"
+  "version": "1.0.4",
+  "notes": "Added Quick sell option \n Added option to require license to buy a vehicle"
 }
