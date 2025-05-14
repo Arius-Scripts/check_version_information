@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "notes": "\n Added possibility to use custom appearance \n Fix multicharacter not opening on start for new esx \n Fixed qb houses query error \n Added option to add more nationalities \n Fixed slot not updating \n Fixed issue where map wasnt loading \n change query function to get the data for qb \n fixed entity not deleting when creating a new char qb \n fixed sometime giving infite loading for qb \n Fixed routing bucketn not setting to 0 after selecting character"
+  "notes": "\n ne Added possibility to use custom appearance \n Fix multicharacter not opening on start for new esx \n Fixed qb houses query error \n Added option to add more nationalities \n Fixed slot not updating \n Fixed issue where map wasnt loading \n change query function to get the data for qb \n fixed entity not deleting when creating a new char qb \n fixed sometime giving infite loading for qb \n Fixed routing bucketn not setting to 0 after selecting character"
 }
